@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 背景颜色 -->
+    <item
+        android:id="@android:id/background"
+        android:drawable="@color/white" />
+
+    <!-- 第二级的颜色 -->
+    <!--
+    <item
+        android:id="@android:id/secondaryProgress"
+        android:drawable="@color/gray">
+    </item>
+    -->
+
+    <!-- 第一级的颜色 -->
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape>
+                <solid android:color="#31B7C1" />
+            </shape>
+        </clip>
+    </item>
+
+</layer-list>

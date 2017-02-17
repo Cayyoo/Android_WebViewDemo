@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WebViewDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\fanhui_pre.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\WebViewDemo\\app\\src\\main\\res\\drawable-mdpi\\fanhui_pre.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WebView\\WebView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\fanhui_pre.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\WebView\\WebView\\app\\src\\main\\res\\drawable-mdpi\\fanhui_pre.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WebViewDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\fanhui.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\WebViewDemo\\app\\src\\main\\res\\drawable-mdpi\\fanhui.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WebView\\WebView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\title.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\WebView\\WebView\\app\\src\\main\\res\\drawable-mdpi\\title.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WebViewDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\WebViewDemo\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WebView\\WebView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\WebView\\WebView\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WebView\\WebView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\fanhui.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\WebView\\WebView\\app\\src\\main\\res\\drawable-mdpi\\fanhui.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WebViewDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_about_logo.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\WebViewDemo\\app\\src\\main\\res\\drawable-mdpi\\ic_about_logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WebView\\WebView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_about_logo.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\WebView\\WebView\\app\\src\\main\\res\\drawable-mdpi\\ic_about_logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WebViewDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\title.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\WebViewDemo\\app\\src\\main\\res\\drawable-mdpi\\title.png"
+    }
+]

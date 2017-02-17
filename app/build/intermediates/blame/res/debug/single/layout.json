@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WebView\\WebView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_two_local_web.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\WebView\\WebView\\app\\src\\main\\res\\layout\\activity_two_local_web.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WebViewDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_two_http_web.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\WebViewDemo\\app\\src\\main\\res\\layout\\activity_two_http_web.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WebView\\WebView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_two_http_web.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\WebView\\WebView\\app\\src\\main\\res\\layout\\activity_two_http_web.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WebViewDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_two_local_web.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\WebViewDemo\\app\\src\\main\\res\\layout\\activity_two_local_web.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WebView\\WebView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_four.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\WebView\\WebView\\app\\src\\main\\res\\layout\\activity_four.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WebView\\WebView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_one_01.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\WebView\\WebView\\app\\src\\main\\res\\layout\\activity_one_01.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WebViewDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_two.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\WebViewDemo\\app\\src\\main\\res\\layout\\activity_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WebViewDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_one_02.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\WebViewDemo\\app\\src\\main\\res\\layout\\activity_one_02.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WebViewDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_one_01.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\WebViewDemo\\app\\src\\main\\res\\layout\\activity_one_01.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WebView\\WebView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_one_02.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\WebView\\WebView\\app\\src\\main\\res\\layout\\activity_one_02.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WebView\\WebView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_three.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\WebView\\WebView\\app\\src\\main\\res\\layout\\activity_three.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WebViewDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_four.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\WebViewDemo\\app\\src\\main\\res\\layout\\activity_four.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WebViewDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\WebViewDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WebViewDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_three.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\WebViewDemo\\app\\src\\main\\res\\layout\\activity_three.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WebView\\WebView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\WebView\\WebView\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WebView\\WebView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_two.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\WebView\\WebView\\app\\src\\main\\res\\layout\\activity_two.xml"
+    }
+]

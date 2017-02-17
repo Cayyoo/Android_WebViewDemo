@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WebView\\WebView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layerlist_progressbar_webview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\WebView\\WebView\\app\\src\\main\\res\\drawable\\layerlist_progressbar_webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WebView\\WebView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_fanghuiz.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\WebView\\WebView\\app\\src\\main\\res\\drawable\\bt_fanghuiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WebViewDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_fanghuiz.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\WebViewDemo\\app\\src\\main\\res\\drawable\\bt_fanghuiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WebViewDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layerlist_progressbar_webview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\WebViewDemo\\app\\src\\main\\res\\drawable\\layerlist_progressbar_webview.xml"
+    }
+]
